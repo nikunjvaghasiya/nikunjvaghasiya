@@ -1,7 +1,7 @@
 Hi 👋 My name is nikunj vaghasiya
 =================================
 
-Web Developer
+Software Engineer
 -------------
 
 *   🌍  I'm based in ahmedabad, gujarat
