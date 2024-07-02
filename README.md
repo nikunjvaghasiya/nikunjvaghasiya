@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Engineer
 --------------
 
-To build a career in an organization where my innovative ideas and skills will be used for the growth of the company and also provide a platform to share my knowledge with others. Aspire to make something unique and useful, through various avenues and to achieve perfection at every step. Skilled in Data Science, Machine Learning, and Deep Learning, Web Development, Backend Development. Strong operations professional with a Bachelor's degree focused in SOLIDWORKS. I want to work in a challenging environment and strive for excellence in all the assignments
+To build a career in an organization where my innovative ideas and skills will be used for the growth of the company and also provide a platform to share my knowledge with others. Aspire to make something unique and useful, through various avenues and to achieve perfection at every step. Skilled in Web Development, Backend Development, and Cutting Edges AI Technology. I want to work in a challenging environment and strive for excellence in all the assignments
 
 * 🌍  I'm based in ahmedabad, gujarat
 * ✉️  You can contact me at [nikunj.vaghasiya2050@gmail.com](mailto:nikunj.vaghasiya2050@gmail.com)
